@@ -97,10 +97,10 @@ nav a {
 main {
   max-width: 1140px;
   border-radius: 10px;
-  background: #fff8f3;
   margin: 0px auto;
 }
 .about {
+  background: #fff8f3;
   padding: 130px;
   margin: 130px 0px;
 }
@@ -133,4 +133,17 @@ main {
   font-weight: bold;
   margin-top: 0px;
   padding: 0px;
+}
+
+/* What I do Section */
+
+#what-i-do-description {
+  color: #757575;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  max-width: 909px;
+  justify-content: space-around;
+  padding: 30px 150px;
+  margin-bottom: 50px;
 }
