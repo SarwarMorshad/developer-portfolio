@@ -180,3 +180,10 @@ main section {
   font-size: 16px;
   font-weight: 400;
 }
+
+/* Resume Section */
+.resume-column-title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
